@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 body {
-    font-family: 'Cabin';
+    font-family: 'Poppins';
     background-color: #758190;
 }
 
@@ -11,7 +13,7 @@ body {
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: beige;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
@@ -21,10 +23,16 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: flex;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #a8bcb8;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -49,7 +57,7 @@ body {
 }
 
 .game-card {
-    background-color: #FFFFFF;
+    background-color: #a8cad8;
     padding: 1%;
     margin: 1%;
     width: 300px;
@@ -72,4 +80,8 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover {
+    box-shadow: 0 0 30px rgb(19, 28, 111);
 }
