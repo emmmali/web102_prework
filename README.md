@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
+*    [X] Changed colors for more interesting UI
+*    [X] Changed to modern, easy-to read font 
 
 ## Video Walkthrough
 
@@ -36,9 +38,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Figuring out JavaScript and getting things to be where I wanted them to be.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Emma Li]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
