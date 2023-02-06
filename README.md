@@ -18,8 +18,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
-*    [X] Changed colors for more interesting UI
-*    [X] Changed to modern, easy-to read font 
+    *  [X] Changed colors for more interesting UI
+    *  [X] Changed to modern, easy-to read font 
 
 ## Video Walkthrough
 
